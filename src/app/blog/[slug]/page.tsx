@@ -43,7 +43,7 @@ export default function page() {
           className="object-cover rounded-full h-12 w-12 sm:h-24 sm:w-24"
         />
         <div className="flex flex-col gap-1">
-          <h3 className="text-xl font-bold text-dark dark:text-light">EmAar</h3>
+          <h3 className="text-xl font-bold text-dark dark:text-light">Hammad Janjua</h3>
           <p className="italic text-xs xs:text-sm sm:text-base text-dark/80 dark:text-light/80">
           Experienced Web Developer | Expert in WordPress Nextjs Reactjs Nodejs Typescript JavaScript 
           GitHub Sanity Tailwind CSS | Participant in PIAIC and GIAIC
